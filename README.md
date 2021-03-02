@@ -9,6 +9,7 @@ Real-World Use-Case
 💡 Payment collection without middlemen
 
 Development-Goal¶
+
 👍🏽 Showcase Event-Triggers
 
 👌 Understand the low-level function address.call.value()()
